@@ -7,4 +7,10 @@ The 1st axis    |  The 2nd axis   | The 3rd axis
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](./doc/asset/PCAAE_z1.gif)  |  ![](./doc/asset/PCAAE_z2.gif) | ![](./doc/asset/PCAAE_z3.gif) 
 
-**Figure:** *Interpolation in the latent space of PCAAE for ellipse images.*
+**Figure 1:** *Interpolation in the latent space of PCAAE for ellipse images.*
+
+The 1st axis    |  The 2nd axis   | The 3rd axis
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./doc/asset/PCAAE_PGAN_z1.gif)  |  ![](./doc/asset/PCAAE_PGAN_z2.gif) | ![](./doc/asset/PCAAE_PGAN_z3.gif) 
+
+**Figure 2:** *Interpolation in the latent space of PCAAE for the latent space of PGAN.*
