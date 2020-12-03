@@ -23,20 +23,25 @@ The 1st axis: Hair colour   |  The 2nd axis: Head pose   | The 3rd axis: Gender
 
 We would like to first introduce the state-of-the-art GAN model used in this work : ProgressiveGAN or PGAN (Karras *el al.*, ICLR 2018). This models achieves high-quality face synthesis by learning unconditional GANs. For more details about this models please refer to the original paper, as well as the official implementations.
 
-* *ProgressiveGAN**:
+* *ProgressiveGAN*:
   [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
   [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
 
 In addition, we would like to introduce the state-of-the-art Disentangled VAE used for comparing in this work : 
 
-* *Standard VAE Loss** from [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
-* *β-VAE<sub>H</sub>** from [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl)
-* *β-VAE<sub>B</sub>** from [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
-* *FactorVAE** from [Disentangling by Factorising](https://arxiv.org/abs/1802.05983)
-* *β-TCVAE** from [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
+* *Standard VAE Loss* from [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+* *β-VAE<sub>H</sub>* from [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl)
+* *β-VAE<sub>B</sub>* from [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
+* *FactorVAE* from [Disentangling by Factorising](https://arxiv.org/abs/1802.05983)
+* *β-TCVAE* from [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
 
-  [[Code](https://github.com/YannDubs/disentangling-vae)]
+  [[Code of these methods](https://github.com/YannDubs/disentangling-vae)]
 
+We also compare our method with StyleGAN:
+
+* *StyleGAN*:
+  [[Paper](https://arxiv.org/pdf/1812.04948.pdf)]
+  [[Code](https://github.com/NVlabs/stylegan)]
 
 ## Demo code
 
