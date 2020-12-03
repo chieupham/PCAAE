@@ -27,9 +27,19 @@ ProgressiveGAN:
   [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
   [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
 
-## Introduction code
+## Demo code
 
 We show our model in [[Colab Jupyter Notebook](https://colab.research.google.com/github/chieupham/PCAAE/blob/main/Introduction_PCAAE.ipynb/)]
+
+Or we can test our model and the compared methods through:
+
+```bash
+python demo/test_pca_ae_ellipses.py
+```
+
+```bash
+python demo/test_pca_pgan.py
+```
 
 ## BibTeX
 
