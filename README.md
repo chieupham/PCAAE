@@ -23,7 +23,7 @@ The 1st axis: Hair colour   |  The 2nd axis: Head pose   | The 3rd axis: Gender
 
 We would like to first introduce the state-of-the-art GAN model used in this work : ProgressiveGAN or PGAN (Karras *el al.*, ICLR 2018). This models achieves high-quality face synthesis by learning unconditional GANs. For more details about this models please refer to the original paper, as well as the official implementations.
 
-ProgressiveGAN:
+* *ProgressiveGAN**:
   [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
   [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
 
