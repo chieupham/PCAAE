@@ -14,3 +14,16 @@ The 1st axis: Hair colour   |  The 2nd axis: Head pose   | The 3rd axis: Gender
 ![](./doc/asset/PCAAE_PGAN_z1.gif)  |  ![](./doc/asset/PCAAE_PGAN_z2.gif) | ![](./doc/asset/PCAAE_PGAN_z3.gif) 
 
 **Figure 2:** *Interpolation in the latent space of PCAAE for the latent space of PGAN.*
+
+[[Preprint](https://arxiv.org/pdf/1904.01277.pdf)]
+[[Preprint](https://arxiv.org/pdf/2006.07827.pdf)]
+[[Project Page](https://github.com/chieupham/PCAAE/)]
+
+## Prior Work
+
+We would like to first introduce the state-of-the-art GAN model used in this work : ProgressiveGAN or PGAN (Karras *el al.*, ICLR 2018). This models achieves high-quality face synthesis by learning unconditional GANs. For more details about this models please refer to the original paper, as well as the official implementations.
+
+ProgressiveGAN:
+  [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
+  [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
+
