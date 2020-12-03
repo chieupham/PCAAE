@@ -27,6 +27,17 @@ ProgressiveGAN:
   [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
   [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
 
+In addition, we would like to introduce the state-of-the-art Disentangled VAE used for comparing in this work : 
+
+* *Standard VAE Loss** from [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+* *β-VAE<sub>H</sub>** from [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/pdf?id=Sy2fzU9gl)
+* *β-VAE<sub>B</sub>** from [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
+* *FactorVAE** from [Disentangling by Factorising](https://arxiv.org/abs/1802.05983)
+* *β-TCVAE** from [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
+
+  [[Code](https://github.com/YannDubs/disentangling-vae)]
+
+
 ## Demo code
 
 We show our model in [[Colab Jupyter Notebook](https://colab.research.google.com/github/chieupham/PCAAE/blob/main/Introduction_PCAAE.ipynb/)]
