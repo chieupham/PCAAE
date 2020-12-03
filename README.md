@@ -27,3 +27,23 @@ ProgressiveGAN:
   [[Paper](https://arxiv.org/pdf/1710.10196.pdf)]
   [[Code](https://github.com/tkarras/progressive_growing_of_gans)]
 
+## Introduction code
+
+We show our model in [[Colab Jupyter Notebook](https://colab.research.google.com/github/chieupham/PCAAE/blob/main/Introduction_PCAAE.ipynb/)]
+
+## BibTeX
+
+```bibtex
+@article{ladjal2019pca,
+  title={A PCA-like autoencoder},
+  author={Ladjal, Sa{\"\i}d and Newson, Alasdair and Pham, Chi-Hieu},
+  journal={arXiv preprint arXiv:1904.01277},
+  year={2019}
+}
+@article{pham2020pcaae,
+  title={PCAAE: Principal Component Analysis Autoencoder for organising the latent space of generative networks},
+  author={Pham, Chi-Hieu and Ladjal, Sa{\"\i}d and Newson, Alasdair},
+  journal={arXiv preprint arXiv:2006.07827},
+  year={2020}
+}
+```
