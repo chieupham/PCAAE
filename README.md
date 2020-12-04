@@ -1,7 +1,8 @@
 # PCAAE : Principal Component Analysis Autoencoder
 
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
-![pytorch 1.1.0](https://img.shields.io/badge/pytorch-1.1.0-green.svg?style=plastic)
+![pytorch 1.2.0](https://img.shields.io/badge/pytorch-1.1.0-green.svg?style=plastic)
+![scikitimage 0.16.2](https://img.shields.io/badge/scikitimage-0.16.2-green.svg?style=plastic)
 
 The 1st axis: Ellipse area    |  The 2nd axis: Horizontal and vertical radius  | The 3rd axis: two diagonal directions
 :-------------------------:|:-------------------------:|:-------------------------:
