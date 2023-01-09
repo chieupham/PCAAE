@@ -61,16 +61,18 @@ python demo/test_pca_pgan.py
 ## BibTeX
 
 ```bibtex
+@article{pham2022pca,
+  title={PCA-AE: Principal Component Analysis Autoencoder for Organising the Latent Space of Generative Networks},
+  author={Pham, Chi-Hieu and Ladjal, Sa{\"\i}d and Newson, Alasdair},
+  journal={Journal of Mathematical Imaging and Vision},
+  pages={1--17},
+  year={2022},
+  publisher={Springer}
+}
 @article{ladjal2019pca,
   title={A PCA-like autoencoder},
   author={Ladjal, Sa{\"\i}d and Newson, Alasdair and Pham, Chi-Hieu},
   journal={arXiv preprint arXiv:1904.01277},
   year={2019}
-}
-@article{pham2020pcaae,
-  title={PCAAE: Principal Component Analysis Autoencoder for organising the latent space of generative networks},
-  author={Pham, Chi-Hieu and Ladjal, Sa{\"\i}d and Newson, Alasdair},
-  journal={arXiv preprint arXiv:2006.07827},
-  year={2020}
 }
 ```
